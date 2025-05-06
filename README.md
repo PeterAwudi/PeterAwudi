@@ -1,10 +1,3 @@
-Perfect—thanks! Based on your input, here's your fully personalized and professional GitHub Profile README enriched with HTML and markdown formatting:
-
-
----
-
-<!-- Personalized GitHub Profile README -->
-
 <h1 align="center">Hi, I'm Peter Awudi! 👋</h1>
 
 <p align="center">
